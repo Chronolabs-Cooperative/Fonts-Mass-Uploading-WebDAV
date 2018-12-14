@@ -6,7 +6,7 @@
 
 ### Author: Dr. Simon Antony Roberts <simon@ordinance.space>
 
-The following REST API allows for images over nearly every format to be stored as an original in the database compressed and service icons with URL for support.
+This is an example of how the SVN is utilised with WebDAV to do mass uploading and cache storage on SVN; it utilised and design to run on ubuntu/debian services and will allow you to mass upload to webdav and then file and cache on subversion (svn)!
 
 # Setting Up the environment in Ubuntu/Debian
 
