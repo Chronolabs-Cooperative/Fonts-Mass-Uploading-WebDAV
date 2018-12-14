@@ -1,0 +1,3 @@
+readonly def
+currentdict end
+currentfile eexec
